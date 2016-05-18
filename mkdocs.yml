@@ -1,0 +1,15 @@
+site_name: Adaphi Documentation
+site_description: Documentation for Adaphi Analytics
+site_author: Yi Zhang
+
+repo_url: https://github.com/caround/adaphi-docs
+repo_name: adaphi-docs
+
+theme: readthedocs
+
+pages:
+- Home: 'index.md'
+- API:
+  - Overview: 'api/Overview.md'
+  - Reports: 'api/Reports.md'
+- About: about.md 
