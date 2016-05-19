@@ -2,7 +2,7 @@ Adaphi Documentation
 =====
 Please make sure you have python and virtualenv installed.
 * Setup on local
-```
+```bash
 $ cd .../adaphi-docs
 # create virtual environment
 $ virtualenv .venv
