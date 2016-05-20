@@ -13,3 +13,6 @@ pages:
   - Overview: 'api/Overview.md'
   - Reports: 'api/Reports.md'
 - About: about.md 
+
+google_analytics: ['UA-78051315-1', 'adaphi.readthedocs.io']
+
